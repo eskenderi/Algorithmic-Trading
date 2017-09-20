@@ -6,5 +6,5 @@ their performance.
 
 ### For more details please check ReadMe.pdf
 
-## PS. As a bonus I included the SPY aka S&P500 historical data as well so you will be able to 
-run our own tests. :)
+## PS. As a bonus I included the SPY aka S&P500 historical data as well so you will be able to run our own tests. :)
+You can get it [here](https://drive.google.com/drive/folders/0B0F0rojmsYn2b1BHLV9MaERjY1k?usp=sharing)
